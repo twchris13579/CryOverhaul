@@ -11,21 +11,20 @@ To install this mod:
 
 5. Right click, Edit with Notepad++ or another text editing software.
 
-Your file should look like this without the #s:
-#<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-#<mods>
-#  <mod>core_1.0.0</mod>
-#</mods>
+Your file should look like this:
 
-6. Add the following line to the file:  <mod>cryoverhaul_1.0.0</mod>
+![image](https://user-images.githubusercontent.com/84551119/119069653-86b20e80-b9b4-11eb-8216-da5ddbd77630.png)
 
-Your file should now look like this without the #s:
 
-#<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-#<mods>
-#  <mod>core_1.0.0</mod>
-#  <mod>cryoverhaul_1.0.0</mod>
-#</mods>
+6. Add the following line to the file:  
+
+![image](https://user-images.githubusercontent.com/84551119/119069632-7a2db600-b9b4-11eb-8d3a-8fe2ddb4fc18.png)
+
+Your file should now look like this:
+
+![image](https://user-images.githubusercontent.com/84551119/119069575-5e2a1480-b9b4-11eb-9500-408e62f51b37.png)
+
+
 
 7. Save the file and close it.
 
