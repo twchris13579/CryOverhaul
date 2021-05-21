@@ -11,21 +11,21 @@ To install this mod:
 
 5. Right click, Edit with Notepad++ or another text editing software.
 
-Your file should look like this:
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<mods>
-  <mod>core_1.0.0</mod>
-</mods>
+Your file should look like this without the #s:
+#<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+#<mods>
+#  <mod>core_1.0.0</mod>
+#</mods>
 
 6. Add the following line to the file:  <mod>cryoverhaul_1.0.0</mod>
 
-Your file should now look like this:
+Your file should now look like this without the #s:
 
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<mods>
-  <mod>core_1.0.0</mod>
-  <mod>cryoverhaul_1.0.0</mod>
-</mods>
+#<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+#<mods>
+#  <mod>core_1.0.0</mod>
+#  <mod>cryoverhaul_1.0.0</mod>
+#</mods>
 
 7. Save the file and close it.
 
